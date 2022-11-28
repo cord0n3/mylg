@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="https://dukun.masuk.id/epg/a.xml, https://iptv-org.github.io/epg/guides/id.xml, https://iptv-org.github.io/epg/guides/ro.xml, https://iptv-org.github.io/epg/guides/pl.xml, https://iptv-org.github.io/epg/guides/za.xml, https://iptv-org.github.io/epg/guides/in.xml, https://iptv-org.github.io/epg/guides/au.xml, https://iptv-org.github.io/epg/guides/uk.xml, https://iptv-org.github.io/epg/guides/us.xml, https://iptv-org.github.io/epg/guides/ru.xml, https://iptv-org.github.io/epg/guides/it.xml, https://iptv-org.github.io/epg/guides/th.xml, https://iptv-org.github.io/epg/guides/ar.xml, https://iptv-org.github.io/epg/guides/pt.xml"
-
+#EXTM3U 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
